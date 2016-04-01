@@ -1,0 +1,1 @@
+Stratustore is a Semantic Web data store which uses Amazon's SimpleDB as back end. The Jena Semantic Web framework is used as an interface both for storing and retrieving triples.
